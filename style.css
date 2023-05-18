@@ -1,3 +1,55 @@
+
+
 .test {
     color: red;
+}
+
+
+.promptContainer {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 32px;
+}
+
+
+
+.gridContainer1 {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.gridContainer2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 512px;
+    height: 100%px;
+    flex-wrap: wrap;
+    
+ 
+box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;}
+
+.size {
+    box-sizing: border-box;
+   
+    height: 32px;
+    width: 32px;
+   
+}
+
+.wow1 {
+    background-color: black;
+    color: red;
+}
+
+.wow2 {
+    background-color: black;
+    color: red;
+}
+
+.clearContainer {
+    display: flex;
+    justify-content: center;
+    margin-top: 32px;
 }
